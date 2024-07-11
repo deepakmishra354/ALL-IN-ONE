@@ -1,0 +1,53 @@
+
+h1 {
+   /* text-align: center; */
+   text-decoration: underline;
+ }
+ img {
+   width: 100%;
+   height: auto;
+   margin: 0 auto;
+   border-radius: 20px;
+ }
+ p {
+   font-size: 18px;
+   text-align: justify;
+ }
+ .btn {
+   width: 20px;
+   height: 20px;
+   display: inline-block;
+   border: 2px solid gray;
+   border-radius: 50%;
+   cursor: pointer;
+ }
+ #white {
+   background-color: white;
+ }
+ #aqua {
+   background-color: aquamarine;
+ }
+ #violet {
+   background-color: violet;
+ }
+ #black {
+   background-color: black;
+ }
+ #color-swich {
+   text-align: right;
+ }
+ #Green {
+   background-color: green;
+ }
+ #red {
+   background-color: red;
+ }
+ #blue {
+   background-color: blue;
+ }
+ #yellow {
+   background-color: yellow;
+ }
+ #par{
+   padding: 40px 40px 40px 40px;
+ }
